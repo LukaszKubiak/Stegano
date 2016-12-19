@@ -1,0 +1,9 @@
+c:\users\mchro_000\documents\visual studio 2012\Projects\Steganografia\Steganografia\bin\Debug\Steganografia.exe.config
+c:\users\mchro_000\documents\visual studio 2012\Projects\Steganografia\Steganografia\bin\Debug\Steganografia.exe
+c:\users\mchro_000\documents\visual studio 2012\Projects\Steganografia\Steganografia\bin\Debug\Steganografia.pdb
+c:\users\mchro_000\documents\visual studio 2012\Projects\Steganografia\Steganografia\obj\Debug\Steganografia.csprojResolveAssemblyReference.cache
+c:\users\mchro_000\documents\visual studio 2012\Projects\Steganografia\Steganografia\obj\Debug\Steganografia.Form1.resources
+c:\users\mchro_000\documents\visual studio 2012\Projects\Steganografia\Steganografia\obj\Debug\Steganografia.Properties.Resources.resources
+c:\users\mchro_000\documents\visual studio 2012\Projects\Steganografia\Steganografia\obj\Debug\Steganografia.csproj.GenerateResource.Cache
+c:\users\mchro_000\documents\visual studio 2012\Projects\Steganografia\Steganografia\obj\Debug\Steganografia.exe
+c:\users\mchro_000\documents\visual studio 2012\Projects\Steganografia\Steganografia\obj\Debug\Steganografia.pdb
